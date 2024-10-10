@@ -11,11 +11,11 @@
     <header>
         <nav>
             <ul>
-                <li><a href="/onlinestores/index.php" <?php if($active =='home') {echo "class = 'active'";}?> >Home</a></li>
-                <li><a href="/onlinestores/login.php" <?php if($active =='login') {echo "class = 'active'";}?>>Login</a></li>
-                <li><a href="/onlinestores/register.php" <?php if($active =='register') {echo "class = 'active'";}?>>Register</a></li>
-                <li><a href="/onlinestores/logout.php" <?php if($active =='logout') {echo "class = 'active'";}?>>Logout</a></li>
-                <li><a href="/onlinestores/dashboard/" <?php if($active =='dashboard') {echo "class = 'active'";}?>>Dashboard</a></li>
+                <li><a href="/project-onlinestores/index.php" <?php if($active =='home') {echo "class = 'active'";}?> >Home</a></li>
+                <li><a href="/project-onlinestores/login.php" <?php if($active =='login') {echo "class = 'active'";}?>>Login</a></li>
+                <li><a href="/project-onlinestores/register.php" <?php if($active =='register') {echo "class = 'active'";}?>>Register</a></li>
+                <li><a href="/project-onlinestores/logout.php" <?php if($active =='logout') {echo "class = 'active'";}?>>Logout</a></li>
+                <li><a href="/project-onlinestores/dashboard/" <?php if($active =='dashboard') {echo "class = 'active'";}?>>Dashboard</a></li>
 
             </ul>
         </nav>
