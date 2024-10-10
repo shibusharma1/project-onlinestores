@@ -34,10 +34,10 @@
     $servername = "localhost";
     $username = "root";
     $password = "";
-    $dbname = "onlinestores";
+    // $dbname = "onlinestores";
 
     //create a connection
-    $con = mysqli_connect($servername,$username,$password,$dbname);
+    $con = mysqli_connect($servername,$username,$password);
 
     
     // if(!$con){

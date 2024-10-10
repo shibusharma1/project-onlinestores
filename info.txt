@@ -1,0 +1,3 @@
+This is the project just dine for the future reference of php validation using regex
+
+This is not the fully working f project or doesnot give the idea of any online <i class="fas fa-store    "></i>

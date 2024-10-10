@@ -31,4 +31,3 @@ foreach($users as $user){
     }
 }
 
-?>
